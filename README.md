@@ -1,5 +1,7 @@
-# DaVinci
-GPT-3
+# DaVinci 1.0
+
+GPT-3 OpenAI
+
 This repo contains test prompts for OpenAI's GPT-3 API and the resulting AI-generated texts, which both illustrate the model's robustness, plus a Python script to quickly query texts from the API. All generated texts in this repo are completely unedited and uncurated unless explicitly stated otherwise.
 
 Disclaimer: generated text content in this repository may be offensive. The READMEs of the corresponding examples will include an explicit content warning (CW) when this is the case.
